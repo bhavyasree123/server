@@ -1,4 +1,4 @@
-const users = [
+const users = [   // example user make connection with your database 
     {
         email: "doremon@test.com",
         password: "333333"
@@ -14,7 +14,7 @@ const publicPosts = [
 
 const privatePosts = [
     {
-        title: "Camp safty",
+        title: "Camp safety",
         content: "These are some tips to stya safe"
     }
 ]
