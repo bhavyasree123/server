@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "auth",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "doremon": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshishThakur10/server-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "bcrypt": "^5.0.1",
+    "express-validator": "^6.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "bugs": {
+    "url": "https://github.com/AshishThakur10/server-1/issues"
+  },
+  "homepage": "https://github.com/AshishThakur10/server-1#readme"
+}
